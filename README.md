@@ -52,12 +52,3 @@ Cómo usar variables de entorno para proteger información sensible
 
 Mejores prácticas en control de versiones con Git
 
-📌 Próximas mejoras
-
-Agregar interfaz gráfica (JavaFX o Swing)
-
-Permitir elegir más monedas dinámicamente
-
-Manejar historial de conversiones
-
-Agregar tests automatizados
